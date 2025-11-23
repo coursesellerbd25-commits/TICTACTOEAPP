@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Lenovo/Desktop/Caution/React1"
+		},
+		{
+			"path": "C:/Users/Lenovo/Desktop/Caution/React1/test1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "test1"
+	}
+}
